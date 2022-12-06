@@ -1,2 +1,2 @@
-# cv-app
+# cv-project
 Curriculum Vitae React App
